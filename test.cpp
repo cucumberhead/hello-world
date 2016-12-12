@@ -31,4 +31,5 @@ b ^= a;
 PR("b ^= a; b = ", b);
 int fo;
 cin >> fo;
+/* I'm so famous*/
 }
