@@ -4,6 +4,7 @@ using namespace std;
 // A macro to save typing:
 #define PR(STR, EXPR) \
 cout << "Hello World";
+/* Don't do this */
 cout << STR; printBinary(EXPR); cout << endl;
 int main() {
 unsigned int getval;
